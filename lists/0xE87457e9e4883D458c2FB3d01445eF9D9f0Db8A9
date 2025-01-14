@@ -1,0 +1,8 @@
+{
+  "name": "SmartHomeToken",
+  "symbol": "SMT",
+  "address": "0xE87457e9e4883D458c2F", 
+  "chainId": 56,
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/umitkelem/smarthome/main/lists/0xE87457e9e4883D458c2F/logo.png"
+}
